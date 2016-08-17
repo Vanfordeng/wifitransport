@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WifiTransport</string>
+    <string name="send_by_wifi">Send by WIFI</string>
+    <string name="send_to">Send to:</string>
+    <string name="create_ap">Create an wifi access point</string>
+    <string name="close_wifi_enable">close wifi enable</string>
+    <string name="open_wifi_ap">open wifi ap</string>
+    <string name="connect_ap">connect ap</string>
+    <string name="select_connect_type">Please select connect type:</string>
+    <string name="as_hotspot">As a hotspot</string>
+    <string name="connect_to_hotspot">Connect to hotspot</string>
+    <string name="launch_transport_activity">Enter</string>
+
+    <!--ConnectActivity-->
+    <string name="open_hotspot_successfully">Open hotspot successfully</string>
+    <string name="open_hotspot_failed">Open hotspot failed</string>
+    <string name="connect_successfully">Connect successfully</string>
+    <string name="connect_failed">Connect failed</string>
+    <string name="message_open_hotspot_failed">Please retry or open hotspot manually.</string>
+    <string name="message_connect_failed">Please retry or connect hotspot manually.</string>
+    <string name="retry">Retry</string>
+    <string name="manual_operation">Manual</string>
+
+    <!--SendFragment-->
+    <string name="send_step">Send step:\n1 click \'ADD\' button select the files you want to send.\n2 click \'SEND\' button to start sending</string>
+    <string name="add">add</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="selected_files_log">Selected files:\n</string>
+
+    <!--ReceiveFragment-->
+    <string name="local_ip">Local IP address:</string>
+    <string name="receive_log">Log:\n</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+
+    <!--WifiSendActivity-->
+    <string name="wait">Waiting for connect to other devices</string>
+    <string name="not_find_file">Can not find the file</string>
+    <string name="not_find_device">Can not find the connected devices</string>
+    <string name="message_not_find_device">Please open wifi transport or quit</string>
+    <string name="quit">Quit</string>
+    <string name="open">Open</string>
+</resources>

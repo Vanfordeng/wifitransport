@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Wifi快传</string>
+    <string name="send_by_wifi">Wifi发送</string>
+    <string name="send_to">发送至：</string>
+    <string name="create_ap">创建一个Wifi热点</string>
+    <string name="close_wifi_enable">关闭Wifi开关</string>
+    <string name="open_wifi_ap">打开Wifi热点开关</string>
+    <string name="connect_ap">连接Wifi热点</string>
+    <string name="select_connect_type">请选择连接类型：</string>
+    <string name="as_hotspot">发起连接</string>
+    <string name="connect_to_hotspot">连接</string>
+    <string name="launch_transport_activity">进入</string>
+
+    <!--ConnectActivity-->
+    <string name="open_hotspot_successfully">开启热点成功</string>
+    <string name="open_hotspot_failed">开启热点失败</string>
+    <string name="connect_failed">连接失败</string>
+    <string name="message_open_hotspot_failed">请重试或手动打开热点</string>
+    <string name="message_connect_failed">请重试或手动连接热点</string>
+    <string name="retry">重试</string>
+    <string name="manual_operation">手动操作</string>
+    <string name="connect_successfully">连接成功</string>
+
+    <!--SendFragment-->
+    <string name="send_step">批量发送文件的步骤：\n1 点击‘添加一个文件’选择待发送的文件\n2 点击‘批量发送’</string>
+    <string name="add">添加一个文件</string>
+    <string name="clear">清空列表</string>
+    <string name="send">批量发送</string>
+    <string name="selected_files_log">已选文件：\n</string>
+    <string name="local_ip">本机IP地址：</string>
+    <string name="receive_log">记录：\n</string>
+    <string name="success">成功</string>
+    <string name="failure">失败</string>
+
+    <!--WifiSendActivity-->
+    <string name="wait">正在等待与其他设备连接...</string>
+    <string name="not_find_file">找不到文件</string>
+    <string name="not_find_device">没有发现已连接的设备</string>
+    <string name="message_not_find_device">请开启Wifi快传或推出</string>
+    <string name="quit">退出</string>
+    <string name="open">开启</string>
+</resources>
